@@ -1,1 +1,1 @@
-# SDE-SHEET (Striver)
+# SDE-SHEET (striver)
